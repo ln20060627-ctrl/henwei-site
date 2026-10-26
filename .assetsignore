@@ -1,0 +1,6 @@
+# 这些不当作静态资源发布
+.git
+.wrangler
+
+# 说明文件本身也不用发
+.assetsignore
